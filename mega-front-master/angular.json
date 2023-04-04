@@ -149,6 +149,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mega-front"
+    }
+  },
+  "defaultProject": "mega-front",
+  "cli": {
+    "analytics": "b73962f8-6006-4982-94b9-48bbd6a98c9a"
+  }
 }
